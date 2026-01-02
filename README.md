@@ -1,6 +1,6 @@
 # STACK OVERFLOW TASK INNOWISE INTERNSHIP
 
-## Authors:
+## Author:
 
 - anastasiya.hrytsanok@innowise.com
 
