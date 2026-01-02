@@ -1,0 +1,18 @@
+.enter-form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  min-width: 400px;
+  padding: 50px;
+  gap: 15px;
+  box-shadow: 1px 1px 5px var(--color-gray);
+}
+
+
+.enter-form-link {
+  align-self: center;
+}
+
+.enter-form-link:hover {
+  cursor: pointer;
+}
